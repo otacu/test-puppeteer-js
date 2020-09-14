@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.17.0"
+    "fs": "0.0.1-security",
+    "puppeteer": "^1.17.0",
+    "request": "^2.88.2"
   }
 }
